@@ -1,0 +1,16 @@
+{
+    "name": "ubuntu/sportsy",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sportsy\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.9"        
+    }
+
+
+ }
+
