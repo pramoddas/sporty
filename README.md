@@ -1,8 +1,4 @@
-Hi Pramod,
 
-It was good talking to you today.
-
-Further to our conversation, please find the assignment below:
 
 Assume a web platform where a user can find sports instructors and facilities. The functionality is:
 
@@ -10,9 +6,6 @@ Assume a web platform where a user can find sports instructors and facilities. T
 > The listings should be pulled up from a database of sports instructors
 > User should be able to sort and filter the listings
 
-The code will not be used for any project or client, but make sure coding standards and best practices are followed. 
-
-The purpose of the assignment is to review coding best practices.
 
 
 **********************************************************************************************************
